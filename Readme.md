@@ -1,7 +1,7 @@
 ﻿# Личный проект «Седона»
 
 * Студент: [Анатолий Галин](https://up.htmlacademy.ru/htmlcss/23/user/813109).
-* [Александр Карташов](https://htmlacademy.ru/profile/id77080).
+* Наставник:[Александр Карташов](https://htmlacademy.ru/profile/id77080).
 
 ---
 
